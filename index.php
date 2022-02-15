@@ -30,7 +30,7 @@
 		</div>
 		<div id="footer">
 			<div>
-				&copy; Саша Волохов, Никита Афанасьев
+				&copy; Ivan Rezchikov & Dusar
 			</div>
 		</div>
 	</body>
@@ -150,7 +150,7 @@
 		</div>
 		<div id="footer">
 			<div>
-				&copy; Саша Волохов, Никита Афанасьев
+				&copy; Ivan Rezchikov & Dusar
 			</div>
 		</div>
 		<script>
